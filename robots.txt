@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://kjinkda.github.io/myalp/sitemap.xml
